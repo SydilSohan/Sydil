@@ -1,0 +1,35 @@
+  body {
+    background-image: url("bgk.jpg") ;
+background-repeat: no-repeat;
+background-position: top right;
+background-attachment: fixed;
+background-size: 20%;
+back
+  }
+  .link:hover {
+    background-color: #f0a500;
+
+    display: inline-block;
+
+  }
+  img {
+    border-radius: 50%;
+  }
+  img:hover {
+    opacity: 50%;
+
+  }
+
+  hr {
+    background-color: none;
+    border-style: none;
+    border-top: dotted;
+    border-color: #94b5c0;
+    width: 5%;
+    border-width: 10px;}
+
+ .num:hover {
+   background-color: white;
+   display: inline-block;
+ }
+  }
